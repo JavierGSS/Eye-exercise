@@ -44,7 +44,7 @@
 
 <br>
 
-## :dart: Eye Movement ##
+## :dart: About ##
 
 In this project, I created a webpage with two images of an eye and a background image of T****'s idiotic face. I then proceeded to include a couple of black balls in the eyes images and made the eyeballs sensitive to the mouse movements. 
 
