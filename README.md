@@ -65,7 +65,7 @@ It would be nice to add two or three buttons to load other satyrical images upon
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+## :checkered_flag: How to run ##
 
 ```bash
 # Clone this project
